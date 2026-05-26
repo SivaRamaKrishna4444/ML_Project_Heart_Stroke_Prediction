@@ -14,7 +14,7 @@ Several classification models including Logistic Regression, Support Vector Mach
 - One-hot encoding for categorical variables
 - Multiple ML model comparison
 - SMOTE for imbalanced data handling
-- Feature selection using SelectKBest (`f_classif`)
+- Feature selection using SelectKBest (f_classif)
 - Hyperparameter tuning using GridSearchCV
 - Confusion matrix and evaluation metrics
 - Final optimized Decision Tree model
